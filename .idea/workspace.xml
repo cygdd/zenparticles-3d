@@ -26,9 +26,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="36TIPrWNAm2UcDQ4yM0E6xAYgcD" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,14 +42,14 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "D:/DeskTop/Coding",
+    "last_opened_file_path": "D:/DeskTop/gesture-particle-flow",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
-    "ts.external.directory.path": "D:\\DeskTop\\zenparticles-3d\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "D:\\DeskTop\\zenparticles-3d - 副本\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -68,7 +68,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765024118453</updated>
-      <workItem from="1765024122799" duration="9223000" />
+      <workItem from="1765024122799" duration="7976000" />
+      <workItem from="1765042391684" duration="1870000" />
+      <workItem from="1765048534924" duration="850000" />
     </task>
     <servers />
   </component>
